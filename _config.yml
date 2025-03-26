@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "大家好啊，欢迎光临"
 
 name                     : &name "Your Name"
 
