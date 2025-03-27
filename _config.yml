@@ -18,7 +18,7 @@ name                     : &name "Your Name"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://s21.ax1x.com/2025/03/27/pErSmrt.png"    #我的头像，可以上传图床复制地址到这里更换
   name             : "是老王啊"
 
   location         : "河南"
