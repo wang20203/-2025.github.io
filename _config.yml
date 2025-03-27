@@ -7,6 +7,11 @@
 # server process.
 
 # Basic Site Settings
+url: "https://www.202520.me"  # 这里是你的自定义域名
+baseurl: ""               # 站点如果部署在根目录，baseurl 就为空
+
+
+
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "大家好啊，欢迎光临"
