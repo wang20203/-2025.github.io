@@ -17,3 +17,5 @@ main:
   - title: "新闻记录"
     url: /news/
 
+  - title: "我的视频"
+    url: /video/
