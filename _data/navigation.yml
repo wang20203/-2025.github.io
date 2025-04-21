@@ -22,3 +22,8 @@ main:
      
   - title: "留言板"
     url: /留言板/
+  
+  - title: "留言板"
+    url: "https://github.com/wang20203/-2025.github.io/issues/1"  # 正确的外部链接 
+
+  
