@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-url: "wang20203.github.io"  # 这里是你的自定义域名
+url: ""  # 这里是你的自定义域名
 baseurl: ""               # 站点如果部署在根目录，baseurl 就为空
 
 
